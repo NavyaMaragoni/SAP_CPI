@@ -1,0 +1,41 @@
+<Orders>
+    <Order>
+        <OrderID>1001</OrderID>
+        <OrderType>ONLINE</OrderType>
+        <Country>IN</Country>
+        <Customer>Email1@test.com</Customer>
+    </Order>
+
+    <Order>
+        <OrderID>1002</OrderID>
+        <OrderType>STORE</OrderType>
+        <Country>US</Country>
+        <Customer>Email2@test.com</Customer>
+    </Order>
+    <Order>
+        <OrderID>1003</OrderID>
+        <OrderType>ONLINE</OrderType>
+        <Country>UK</Country>
+        <Customer>Email1@test.com</Customer>
+    </Order>
+
+    <Order>
+        <OrderID>1004</OrderID>
+        <OrderType>STORE</OrderType>
+        <Country>FR</Country>
+        <Customer>Email2@test.com</Customer>
+    </Order>
+    <Order>
+        <OrderID>1005</OrderID>
+        <OrderType>ONLINE</OrderType>
+        <Country>PAK</Country>
+        <Customer>Email1@test.com</Customer>
+    </Order>
+
+    <Order>
+        <OrderID>1006</OrderID>
+        <OrderType>STORE</OrderType>
+        <Country>NPL</Country>
+        <Customer>Email2@test.com</Customer>
+    </Order>
+</Orders>

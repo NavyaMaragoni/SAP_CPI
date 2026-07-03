@@ -1,0 +1,16 @@
+<Suppliers>
+    <Supplier>
+      <SupplierID>2</SupplierID>
+      <CompanyName>New Orleans Cajun Delights</CompanyName>
+      <HomePage>#CAJUN.HTM#</HomePage>
+      <Address>P.O. Box 78934</Address>
+      <Phone>(100) 555-4822</Phone>
+      <Region>LA</Region>
+      <PostalCode>70117</PostalCode>
+      <Country>USA</Country>
+      <City>New Orleans</City>
+      <Fax/>
+      <ContactName>Shelley Burke</ContactName>
+      <ContactTitle>Order Administrator</ContactTitle>
+    </Supplier>
+  </Suppliers>

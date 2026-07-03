@@ -1,0 +1,11 @@
+<Order>
+    <OrderID>ORD1001</OrderID>
+    <CustomerID>CUST001</CustomerID>
+    <CustomerName>Navya Enterprises</CustomerName>
+    <OrderDate>2026-06-10</OrderDate>
+    <ProductID>P100</ProductID>
+    <ProductName>Laptop</ProductName>
+    <Quantity>2</Quantity>
+    <UnitPrice>50000</UnitPrice>
+    <TotalAmount>100000</TotalAmount>
+</Order>

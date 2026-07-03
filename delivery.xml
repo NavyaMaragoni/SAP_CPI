@@ -1,0 +1,8 @@
+<Delivery>
+    <DeliveryID>DEL3001</DeliveryID>
+    <OrderID>ORD1001</OrderID>
+    <ShipmentDate>2026-06-12</ShipmentDate>
+    <Carrier>DHL</Carrier>
+    <TrackingNumber>TRK987654321</TrackingNumber>
+    <DeliveryStatus>In Transit</DeliveryStatus>
+</Delivery>

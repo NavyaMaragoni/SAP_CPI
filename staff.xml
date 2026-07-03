@@ -1,0 +1,34 @@
+<StaffRecords>
+    <Staff>
+        <StaffID>1001</StaffID>
+        <FullName>Navya Maragoni</FullName>
+        <GenderDescription>Female</GenderDescription>
+        <DepartmentName>Information Technology</DepartmentName>
+        <CountryName>India</CountryName>
+        <HireDate>15-01-2026</HireDate>
+        <AnnualSalary>50000</AnnualSalary>
+        <SourceSystem>SAP CPI</SourceSystem>
+    </Staff>
+
+    <Staff>
+        <StaffID>1002</StaffID>
+        <FullName>Rahul Sharma</FullName>
+        <GenderDescription>Male</GenderDescription>
+        <DepartmentName>Human Resources</DepartmentName>
+        <CountryName>United States</CountryName>
+        <HireDate>10-08-2025</HireDate>
+        <AnnualSalary>65000</AnnualSalary>
+        <SourceSystem>SAP CPI</SourceSystem>
+    </Staff>
+
+    <Staff>
+        <StaffID>1003</StaffID>
+        <FullName>Anita Patel</FullName>
+        <GenderDescription>Female</GenderDescription>
+        <DepartmentName>Finance</DepartmentName>
+        <CountryName>United Kingdom</CountryName>
+        <HireDate>05-11-2024</HireDate>
+        <AnnualSalary>70000</AnnualSalary>
+        <SourceSystem>SAP CPI</SourceSystem>
+    </Staff>
+</StaffRecords>

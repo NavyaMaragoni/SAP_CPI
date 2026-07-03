@@ -1,0 +1,8 @@
+<Payment>
+    <PaymentID>PAY4001</PaymentID>
+    <InvoiceID>INV2001</InvoiceID>
+    <PaymentDate>2026-06-13</PaymentDate>
+    <PaymentMethod>Bank Transfer</PaymentMethod>
+    <AmountPaid>118000</AmountPaid>
+    <PaymentStatus>Completed</PaymentStatus>
+</Payment>

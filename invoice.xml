@@ -1,0 +1,9 @@
+<Invoice>
+    <InvoiceID>INV2001</InvoiceID>
+    <OrderID>ORD1001</OrderID>
+    <InvoiceDate>2026-06-11</InvoiceDate>
+    <CustomerID>CUST001</CustomerID>
+    <TaxAmount>18000</TaxAmount>
+    <InvoiceAmount>118000</InvoiceAmount>
+    <Status>Generated</Status>
+</Invoice>

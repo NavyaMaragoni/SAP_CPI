@@ -1,0 +1,67 @@
+<Employees>
+    <Employee>
+        <EmpID>1001</EmpID>
+        <FirstName>Navya</FirstName>
+        <LastName>Maragoni</LastName>
+        <Gender>F</Gender>
+        <Department>IT</Department>
+        <Country>IN</Country>
+        <JoiningDate>2026-01-15</JoiningDate>
+        <Salary>50000</Salary>
+    </Employee>
+
+    <Employee>
+        <EmpID>1002</EmpID>
+        <FirstName>Rahul</FirstName>
+        <LastName>Sharma</LastName>
+        <Gender>M</Gender>
+        <Department>HR</Department>
+        <Country>US</Country>
+        <JoiningDate>2025-08-10</JoiningDate>
+        <Salary>65000</Salary>
+    </Employee>
+
+    <Employee>
+        <EmpID>1003</EmpID>
+        <FirstName>Anita</FirstName>
+        <LastName>Patel</LastName>
+        <Gender>F</Gender>
+        <Department>FIN</Department>
+        <Country>UK</Country>
+        <JoiningDate>2024-11-05</JoiningDate>
+        <Salary>70000</Salary>
+    </Employee>
+    
+    <Employee>
+        <EmpID>1001</EmpID>
+        <FirstName>Navya</FirstName>
+        <LastName>Maragoni</LastName>
+        <Gender>F</Gender>
+        <Department>IT</Department>
+        <Country>IN</Country>
+        <JoiningDate>2026-01-15</JoiningDate>
+        <Salary>50000</Salary>
+    </Employee>
+
+    <Employee>
+        <EmpID>1002</EmpID>
+        <FirstName>Rahul</FirstName>
+        <LastName>Sharma</LastName>
+        <Gender>M</Gender>
+        <Department>HR</Department>
+        <Country>US</Country>
+        <JoiningDate>2025-08-10</JoiningDate>
+        <Salary>65000</Salary>
+    </Employee>
+
+    <Employee>
+        <EmpID>1003</EmpID>
+        <FirstName>Anita</FirstName>
+        <LastName>Patel</LastName>
+        <Gender>F</Gender>
+        <Department>FIN</Department>
+        <Country>UK</Country>
+        <JoiningDate>2024-11-05</JoiningDate>
+        <Salary>70000</Salary>
+    </Employee>
+</Employees>

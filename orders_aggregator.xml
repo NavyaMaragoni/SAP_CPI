@@ -1,0 +1,89 @@
+
+<Orders>
+
+    
+    <Order>
+        <OrderID>ORD001</OrderID>
+        <CustomerID>CUST1001</CustomerID>
+        <Category>Electronics</Category>
+        <ProductName>Laptop</ProductName>
+        <Amount>55000</Amount>
+        <release>False</release>
+    </Order>
+
+    <Order>
+        <OrderID>ORD002</OrderID>
+        <CustomerID>CUST1001</CustomerID>
+        <Category>Furniture</Category>
+        <ProductName>Office Chair</ProductName>
+        <Amount>7000</Amount>
+        <release>False</release>
+    </Order>
+
+    <Order>
+        <OrderID>ORD003</OrderID>
+        <CustomerID>CUST1001</CustomerID>
+        <Category>Books</Category>
+        <ProductName>Java Programming</ProductName>
+        <Amount>1200</Amount>
+        <release>False</release>
+        
+    </Order>
+
+    
+    <Order>
+        <OrderID>ORD004</OrderID>
+        <CustomerID>CUST1002</CustomerID>
+        <Category>Electronics</Category>
+        <ProductName>Mobile Phone</ProductName>
+        <Amount>25000</Amount>
+        <release>False</release>
+    </Order>
+
+    <Order>
+        <OrderID>ORD005</OrderID>
+        <CustomerID>CUST1002</CustomerID>
+        <Category>Furniture</Category>
+        <ProductName>Dining Table</ProductName>
+        <Amount>18000</Amount>
+        <release>False</release>
+    </Order>
+
+    <Order>
+        <OrderID>ORD006</OrderID>
+        <CustomerID>CUST1002</CustomerID>
+        <Category>Books</Category>
+        <ProductName>SAP CPI Guide</ProductName>
+        <Amount>1500</Amount>
+        <release>False</release>
+    </Order>
+
+   
+    <Order>
+        <OrderID>ORD007</OrderID>
+        <CustomerID>CUST1003</CustomerID>
+        <Category>Electronics</Category>
+        <ProductName>Tablet</ProductName>
+        <Amount>30000</Amount>
+        <release>True</release>
+    </Order>
+
+    <Order>
+        <OrderID>ORD008</OrderID>
+        <CustomerID>CUST1003</CustomerID>
+        <Category>Furniture</Category>
+        <ProductName>Study Desk</ProductName>
+        <Amount>10000</Amount>
+        <release>True</release>
+    </Order>
+
+    <Order>
+        <OrderID>ORD009</OrderID>
+        <CustomerID>CUST1003</CustomerID>
+        <Category>Books</Category>
+        <ProductName>UPSC Handbook</ProductName>
+        <Amount>900</Amount>
+        <release>True</release>
+    </Order>
+
+</Orders>
